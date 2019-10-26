@@ -1,16 +1,37 @@
 /* Body */
+
 body {
     font-family: "Roboto", Arial, Verdana, sans-serif;
 }
 
 /* Heading H1 */
+
 h1 {
     color: purple;
     text-align: center;
 }
 
 /* Section */
+
 h2 {
     color: green;
     text-align: center;
+}
+
+/* Office */
+
+.office {
+    background-color: lightgreen;
+}
+
+/* Programming */
+
+.programming {
+    background-color: lightblue;
+}
+
+/* Other Skills */
+
+.otherskills {
+    background-color: pink;
 }
