@@ -20,3 +20,8 @@ As a user, I want to have Font Awesome Icons in each column heading.  For exampl
 
 This project has three columns.
 
+## Technologies
+
+This project uses HTML5, CSS3 and Bootstrap 4.3.1.  Other technologies include Font Awesome for icons such as code for
+programming and Google Fonts (https://fonts.google.com).
+
