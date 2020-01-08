@@ -9,8 +9,8 @@ The organising principle is Skills or Interests.
 
 ### User Stories
 
-As a user, I want to see each column in a different background colour.  The first column (office) has a light blue
-background colour.  The second column (programming) has a light green background colour.  The third column (other skills)
+As a user, I want to see each column in a different background colour.  The first column (office) has a light green
+background colour.  The second column (programming) has a light blue background colour.  The third column (other skills)
 has a pink background colour.
 
 As a user, I want to have Font Awesome Icons in each column heading.  For example, the heading office would have the Excel
@@ -25,3 +25,7 @@ This project has three columns.
 This project uses HTML5, CSS3 and Bootstrap 4.3.1.  Other technologies include Font Awesome for icons such as code for
 programming and Google Fonts (https://fonts.google.com).
 
+## Testing
+
+Resize the width of the browser window.  If the browser window is below a certain width, it has 3 vertical columns.
+Ensure all the user stories have been met.
