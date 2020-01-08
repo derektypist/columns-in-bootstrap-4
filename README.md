@@ -29,3 +29,19 @@ programming and Google Fonts (https://fonts.google.com).
 
 Resize the width of the browser window.  If the browser window is below a certain width, it has 3 vertical columns.
 Ensure all the user stories have been met.
+
+## Deployment
+
+This project is hosted on [GitHub Pages](https://derektypist.github.io/columns-in-bootstrap-4) using the master branch.
+
+To set up remotely use the command
+
+    git remote add origin https://github.com/derektypist/columns-in-bootstrap-4
+    
+Any updates, use the git push command
+
+## Credits
+
+### Content
+
+The contents in this project were written by me.
