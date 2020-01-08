@@ -13,3 +13,10 @@ As a user, I want to see each column in a different background colour.  The firs
 background colour.  The second column (programming) has a light green background colour.  The third column (other skills)
 has a pink background colour.
 
+As a user, I want to have Font Awesome Icons in each column heading.  For example, the heading office would have the Excel
+(Spreadsheet) symbol displayed.
+
+## Features
+
+This project has three columns.
+
