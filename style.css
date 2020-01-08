@@ -4,9 +4,9 @@ body {
     font-family: "Roboto", Arial, Verdana, sans-serif;
 }
 
-/* Heading H1 */
+/* Header */
 
-h1 {
+#header {
     color: purple;
     text-align: center;
 }
