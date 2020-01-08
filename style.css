@@ -6,15 +6,11 @@ body {
 
 /* Header */
 
-h1 {
+#myheader {
     color: purple;
     text-align: center;
 }
 
-header p {
-    color: blue;
-    text-align: center;
-}
 
 /* Section */
 
